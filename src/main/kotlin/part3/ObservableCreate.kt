@@ -19,7 +19,7 @@ fun main() {
         }
 
         override fun onError(e: Throwable) {
-            println("Error Occured ${e.message}")
+            println("Error Occurred ${e.message}")
         }
     }
 
